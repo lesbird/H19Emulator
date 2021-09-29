@@ -1,0 +1,83 @@
+
+ED 73 04 48  31 86 48 3E  13 ED 47 FB  21 59 47 11    *.s.H1.H>..G.!YG.*
+90 00 CD E1  44 21 E9 47  11 1B 00 CD  E1 44 CD 33    *....D!.G.....D.3*
+47 FE 51 CA  3D 44 FE 47  CA 4C 44 FE  52 CA 6F 44    *G.Q.=D.G.LD.R.oD*
+FE 57 CA EE  44 FE 46 CA  17 45 C3 15  44 3E 0D CD    *.W..D.F..E..D>..*
+3C 47 3E 0A  CD 3C 47 ED  7B 04 48 C9  CD 62 45 CD    *<G>..<G.{.H..bE.*
+54 45 CD 9F  45 21 86 48  11 00 11 CD  E1 44 3A 47    *TE..E!.H.....D:G*
+47 FE 4C 28  05 CD 7F 45  18 E8 CD 6D  45 18 A6 3E    *G.L(...E...mE..>*
+0A 32 4D 47  AF 32 58 47  AF 32 57 47  21 86 48 22    *.2MG.2XG.2WG!.H"*
+
+4E 47 E5 CD  9B 44 E1 11  00 11 CD E1  44 3A 58 47    *NG...D......D:XG*
+3C 32 58 47  FE 4D 20 E0  C3 15 44 3A  57 47 F6 80    *<2XG.M ...D:WG..*
+77 23 3A 58  47 77 23 E5  22 4E 47 21  80 00 22 50    *w#:XGw#."NG!.."P*
+47 FD 21 4C  47 CD FD 0B  E1 11 80 00  19 11 B4 12    *G.!LG...........*
+1A 13 77 23  1A 13 77 23  1A 13 77 23  1A 13 77 23    *..w#..w#..w#..w#*
+AF 77 23 77  23 3A 57 47  3C 32 57 47  FE 20 20 BB    *.w#w#:WG<2WG.  .*
+C9 F3 7E 23  CD 3C 47 1B  7A B3 20 F6  FB C9 3E 0E    *..~#.<G.z. ...>.*
+32 4D 47 AF  32 47 47 CD  4E 45 21 86  48 11 00 11    *2MG.2GG.NE!.H...*
+
+CD 41 45 CD  26 46 3A 47  47 3C 32 47  47 FE 4D 20    *.AE.&F:GG<2GG.M *
+E6 CD 4E 45  C3 15 44 CD  62 45 CD 54  45 CD 4E 45    *..NE..D.bE.TE.NE*
+21 86 48 11  00 11 CD 41  45 CD 72 46  3A 47 47 FE    *!.H....AE.rF:GG.*
+4C 28 05 CD  7F 45 18 E5  CD 6D 45 CD  4E 45 C3 15    *L(...E...mE.NE..*
+44 F3 CD 33  47 77 23 1B  7A B3 20 F6  FB C9 3E 52    *D..3Gw#.z. ...>R*
+CD 3C 47 C9  AF 32 47 47  DB D0 CB 77  C8 CD 7B 45    *.<G..2GG...w..{E*
+18 F6 3E 0B  D3 D4 3E 00  CB DF D3 D1  C9 3E 0B D3    *..>...>......>..*
+D4 DB D1 CB  5F C8 E6 07  D3 D1 C9 06  00 18 0E 3A    *...._..........:*
+
+47 47 FE 4C  C8 3C 32 47  47 06 00 CB  C0 0E D0 ED    *GG.L.<2GG.......*
+41 CB C8 ED  41 E3 E3 CB  88 ED 41 CD  29 47 C9 21    *A...A.....A.)G.!*
+86 48 22 4A  47 AF 32 48  47 AF 32 49  47 21 4C 47    *.H"JG.2HG.2IG!LG*
+22 D0 13 3E  D7 D3 D4 3E  01 D3 D4 21  CF 45 22 AF    *"..>...>...!.E".*
+12 3A 49 47  B7 28 FA 21  00 00 22 D0  13 18 09 3E    *.:IG.(.!.."....>*
+80 32 49 47  32 56 47 C9  F3 2A 4A 47  3A 48 47 F6    *.2IG2VG..*JG:HG.*
+80 5F 3E 04  06 3D 10 FE  D3 D0 01 CF  80 DB CF BB    *._>..=..........*
+DB CF 20 2B  73 23 77 23  ED A2 00 00  00 20 F9 ED    *.. +s#w#..... ..*
+
+A2 ED A2 ED  A2 ED A2 ED  A2 ED A2 22  4A 47 AF D3    *..........."JG..*
+D0 FB 3A 48  47 3C 32 48  47 FE 20 C2  A9 45 C9 FB    *..:HG<2HG. ..E..*
+AF D3 D0 C3  A9 45 21 86  48 AF 32 48  47 FD 21 4C    *.....E!.H.2HG.!L*
+47 7E E6 1F  32 57 47 23  7E 32 58 47  23 22 4E 47    *G~..2WG#~2XG#"NG*
+11 80 00 19  7E 32 B4 12  23 7E 32 B5  12 23 7E 32    *....~2..#~2..#~2*
+B6 12 23 7E  32 B7 12 23  E5 21 80 00  22 50 47 CD    *..#~2..#.!.."PG.*
+FD 0B E1 23  23 3A 48 47  3C 32 48 47  FE 20 C2 2D    *...##:HG<2HG. .-*
+46 C9 AF 32  48 47 CD CB  46 21 86 48  22 4A 47 CD    *F..2HG..F!.H"JG.*
+
+00 47 F3 3E  08 D3 D0 01  CF 82 2A 4A  47 3E 3A 3D    *.G.>......*JG>:=*
+20 FD 00 00  ED A3 ED A3  00 00 ED A3  00 00 00 20    * .............. *
+F9 ED A3 ED  A3 ED A3 3E  18 ED A3 D3  D0 D3 CF D3    *.......>........*
+CF AF D3 CF  D3 CF D3 D0  23 23 22 4A  47 FB 3A 48    *........##"JG.:H*
+47 3C 32 48  47 FE 20 C2  7F 46 C9 CD  00 47 11 49    *G<2HG. ..F...G.I*
+47 AF 32 49  47 32 56 47  21 4C 47 22  D0 13 3E D7    *G.2IG2VG!LG"..>.*
+D3 D4 3E 01  D3 D4 21 CF  45 22 AF 12  01 00 00 03    *..>...!.E"......*
+1A B7 28 FB  78 FE 01 30  D5 21 00 00  22 D0 13 C9    *..(.x..0.!.."...*
+
+11 49 47 AF  32 49 47 32  56 47 21 4C  47 22 D0 13    *.IG.2IG2VG!LG"..*
+3E D7 D3 D4  3E 01 D3 D4  21 CF 45 22  AF 12 1A B7    *>...>...!.E"....*
+28 FC 21 00  00 22 D0 13  C9 11 00 04  1B 7A B3 C2    *(.!..".......z..*
+2C 47 C9 DB  DF CB 4F 28  FA DB DE C9  F5 DB DF CB    *,G....O(........*
+47 28 FA F1  D3 DE C9 00  00 00 00 00  00 0E 86 48    *G(.............H*
+80 00 00 00  00 00 00 00  00 0D 0A 4D  43 5A 49 4D    *...........MCZIM*
+41 47 45 52  20 56 31 2E  31 20 28 32  30 32 31 29    *AGER V1.1 (2021)*
+20 42 59 20  4C 45 53 20  42 49 52 44  0D 0A 53 45    * BY LES BIRD..SE*
+
+4E 44 53 20  44 49 53 4B  20 54 52 41  43 4B 53 20    *NDS DISK TRACKS *
+54 4F 20 43  4F 4E 53 4F  4C 45 20 50  4F 52 54 0D    *TO CONSOLE PORT.*
+0A 48 4F 53  54 20 53 59  53 54 45 4D  20 53 48 4F    *.HOST SYSTEM SHO*
+55 4C 44 20  42 45 20 52  55 4E 4E 49  4E 47 20 4D    *ULD BE RUNNING M*
+43 5A 49 4D  41 47 45 52  48 4F 53 54  20 54 4F 0D    *CZIMAGERHOST TO.*
+0A 43 41 50  54 55 52 45  20 54 48 45  20 54 52 41    *.CAPTURE THE TRA*
+43 4B 20 44  41 54 41 0D  0A 0D 0A 49  4D 41 47 45    *CK DATA....IMAGE*
+52 20 52 45  41 44 59 20  28 51 20 54  4F 20 51 55    *R READY (Q TO QU*
+
+49 54 29 3E  00 00 FF FF  FF FF FF FF  FF FF FF FF    *IT)>............*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+FF FF FF FF  FF FF FF FF  FF FF FF FF  FF FF FF FF    *................*
+
+%
