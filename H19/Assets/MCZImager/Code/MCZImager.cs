@@ -361,6 +361,8 @@ public class MCZImager : MonoBehaviour
         mczCanvas.SetActive(false);
         H19.Instance.disableOutput = false;
 
+        int delayCount = 0;
+
         inSendCoroutine = true;
         for (int i = 0; i < textArray.Length; i++)
         {
@@ -369,13 +371,22 @@ public class MCZImager : MonoBehaviour
             {
                 byte c = (byte)s[n];
                 H19.Instance.OutCharDirect(c);
-                yield return new WaitForEndOfFrame();
+                delayCount++;
+                if (delayCount == 4)
+                {
+                    yield return new WaitForEndOfFrame();
+                    delayCount = 0;
+                }
             }
+            yield return new WaitForEndOfFrame();
+            yield return new WaitForEndOfFrame();
+            yield return new WaitForEndOfFrame();
+            yield return new WaitForEndOfFrame();
             if (addCr)
             {
                 H19.Instance.OutCharDirect(0x0D);
-                yield return new WaitForEndOfFrame();
             }
+            yield return new WaitForEndOfFrame();
         }
         inSendCoroutine = false;
 
