@@ -23,6 +23,7 @@ public class FilePicker : MonoBehaviour
 {
     public GameObject panelRoot;
     public RectTransform contentRoot;
+    public UnityEngine.UI.Text title;
     public UnityEngine.UI.Text pathText;
     public UnityEngine.UI.InputField fileInputField;
     public UnityEngine.UI.Button fileButtonPrefab;
@@ -68,7 +69,7 @@ public class FilePicker : MonoBehaviour
 
     public void ShowPicker(bool needFileName = false)
     {
-        fileInputField.text = string.Empty;
+        //fileInputField.text = string.Empty;
         fileInputField.interactable = needFileName;
 
         if (onOpenPicker != null)
@@ -77,6 +78,10 @@ public class FilePicker : MonoBehaviour
         }
 
         requireFileName = needFileName;
+        if (!requireFileName)
+        {
+            fileInputField.text = string.Empty;
+        }
 
         directoryContents.Clear();
 
